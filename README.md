@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Pranali 👋
 
-<!--
-**pranalikatad2585/pranalikatad2585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Technology Student | Learning Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Information Technology Student
+- 💻 Learning Programming and Software Development
+- 🌱 Improving my coding skills step by step
+- 📚 Exploring Web Development and Technology
+- ⚡ Goal: Become a Skilled Software Engineer
+
+---
+
+## 🛠️ Currently Learning
+
+- C Programming
+- C++
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📌 Interests
+
+- Software Development
+- Web Development
+- Android Development
+- Technology & Programming
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranalikatad2585&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pranalikatad2585&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/pranalikatad2585
+
+---
+
+### ✨ Quote
+
+"Consistency and continuous learning build strong developers."
